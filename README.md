@@ -26,7 +26,7 @@ The program supports the following features:
 
 - `tasks.json`: This file is automatically created and updated to store all tasks in a structured JSON format. It persists between runs and is used to load and save task data.
 
-- `test_project.py` (optional if created): If written, this file would contain test functions to validate core operations like adding, completing, and deleting tasks using assertions.
+- `test_project.py` : This file contains test functions to validate core operations like adding, completing, and deleting tasks using assertions.
 
 - `README.md`: This file, which you're reading now, explains the purpose, structure, and usage of the project.
 
